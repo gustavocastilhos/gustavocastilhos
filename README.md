@@ -16,7 +16,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
 ## Projetos/repos Destacados
-- 📝⏳SENAI_FASE_1: Repositório destinado as atividades e aulas da 3° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/gustavocastilhos/senai1fase))
+- 📝⏳SENAI_FASE_1: Repositório destinado as atividades e aulas da 1° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/gustavocastilhos/senai1fase))
 ## Minhas Contribuições
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastilhos&theme=dark)
