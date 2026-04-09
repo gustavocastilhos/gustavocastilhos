@@ -1,4 +1,35 @@
-## Hi there 👋
+# Olá! Meu nome é Gustavo Martins Castilhos
+[![GitHub followers](https://img.shields.io/github/followers/VBubols?label=Follow&style=social)](https://github.com/VBubols)
+
+
+## Linguagens e Ferramentas
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<!-- ## Estatísticas do Meu Perfil
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
+
+## Projetos/repos Destacados
+- 📝⏳SENAI_FASE_3: Repositório destinado as atividades e aulas da 3° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/VBubols/SENAI_FASE3))
+- 🖥️ Node.js CLI — FS, Path & OS: Exercício de NODE modules, utilizando os módulos FileSystem, Path e OS. Organizando todas funções em um só arquivo com menu interativo. ([Repositório aqui](https://github.com/VBubols/NODE_OS_PATH_FS))
+- 🖥️ APIs REST MVC: Exercícios progressivos de construção de APIs com Express utilizando a arquitetura MVC (Model · Controller). Todos os exercícios utilizam arrays em memória como fonte de dados — nenhum banco de dados é necessário. ([Repositório aqui](https://github.com/VBubols/APIs_REST_MVC))
+
+## Minhas Contribuições
+
+![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=VBubols&theme=dark)
+
+## Entre em Contato
+
+Fique à vontade para entrar em contato comigo!
+
+[![Gmail Badge](https://img.shields.io/badge/vitorbubols@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorbubols@gmail.com)](mailto:vitorbubols@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bubols/)](https://www.linkedin.com/in/vitor-bubols/)
 
 <!--
 **gustavocastilhos/gustavocastilhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
