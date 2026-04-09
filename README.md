@@ -25,8 +25,8 @@
 
 Fique à vontade para entrar em contato comigo!
 
-[![Gmail Badge](https://img.shields.io/badge/vitorbubols@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusmarcast@gmail.com)](mailto:gusmarcast@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bubols/)]([https://www.linkedin.com/in/vitor-bubols/](https://www.linkedin.com/in/gustavo-castilhos-6b497a273/))
+[![Gmail Badge](https://img.shields.io/badge/gusmarcast@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusmarcast@gmail.com)](mailto:gusmarcast@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bubols/)]([[[https://www.linkedin.com/in/vitor-bubols/](https://www.linkedin.com/in/gustavo-castilhos-6b497a273/)](https://www.linkedin.com/in/gustavo-castilhos-6b497a273/)](https://www.linkedin.com/in/gustavo-castilhos-6b497a273/))
 
 <!--
 **gustavocastilhos/gustavocastilhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
