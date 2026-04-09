@@ -19,7 +19,7 @@
 - 📝⏳SENAI_FASE_1: Repositório destinado as atividades e aulas da 3° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/gustavocastilhos/senai1fase))
 ## Minhas Contribuições
 
-![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=VBubols&theme=dark)
+![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastilhos&theme=dark)
 
 ## Entre em Contato
 
