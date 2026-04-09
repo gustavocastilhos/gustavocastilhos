@@ -1,5 +1,5 @@
 # Olá! Meu nome é Gustavo Martins Castilhos
-[![GitHub followers](https://img.shields.io/github/followers/VBubols?label=Follow&style=social)](https://github.com/VBubols)
+[![GitHub followers](https://img.shields.io/github/followers/gustavocastilhos?label=Follow&style=social)](https://github.com/gustavocastilhos)
 
 
 ## Linguagens e Ferramentas
