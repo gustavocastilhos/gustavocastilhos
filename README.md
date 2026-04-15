@@ -21,7 +21,7 @@
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastilhos&theme=dark)
 
-## Entre em Contato
+## Entre em Contat
 
 Fique à vontade para entrar em contato comigo!
 
