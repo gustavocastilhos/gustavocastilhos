@@ -20,8 +20,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
 ## Projetos/repos Destacados
-- 📝⏳SENAI-FASE-1: Repositório destinado as atividades e aulas da 1° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/gustavocastilhos/senai1fase))
-- - 📝⏳ ANALISE-DE-PREÇOS: Projeto para prática de coleta, análise e tratamento de dados com foco em preços de mercado .([Repositório aqui](https://github.com/gustavocastilhos/analise-precos-python))
+- ⏳SENAI-FASE-1: Repositório destinado as atividades e aulas da 1° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/gustavocastilhos/senai1fase))
+-  📊 ANALISE-DE-PREÇOS: Projeto para prática de coleta, análise e tratamento de dados com foco em preços de mercado .([Repositório aqui](https://github.com/gustavocastilhos/analise-precos-python))
 
 ## Minhas Contribuições
 
