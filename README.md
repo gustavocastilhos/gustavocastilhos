@@ -17,7 +17,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
 ## Projetos/repos Destacados
--  ⏳ SENAI-FASE-1: Coleção de atividades e projetos desenvolvidos durante a 1ª fase do curso de Desenvolvimento de Sistemas.([Site aqui](https://senai1fasejs.vercel.app/))
+-  ⏳ SENAI-FASE-1: Coleção de atividades e projetos desenvolvidos durante a 1ª fase do curso de Desenvolvimento de Sistemas.  ([Site aqui](https://senai1fasejs.vercel.app/))
 -  💘 DIA-DOS-NAMORADOS: Experiência web interativa que esconde uma declaração romântica por trás de um contrato corporativo fictício, utilizando HTML, CSS e JavaScript.([Repositório aqui](https://github.com/gustavocastilhos/diadosnamorados))
 -  📊 ANALISE-DE-PREÇOS: Projeto de coleta, tratamento e análise de dados voltado à extração de insights e organização de informações.([Repositório aqui](https://github.com/gustavocastilhos/analise-precos-python))
 
