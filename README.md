@@ -18,7 +18,7 @@
 
 ## Projetos/repos Destacados
 -  ⏳ SENAI-FASE-1: Repositório destinado as atividades e aulas da 1° fase do curso de Desenvolvimento de Sistemas.([Site aqui](https://senai1fasejs.vercel.app/))
--  💘 DIA-DOS-NAMORADOS: Projeto destinado ao dia dos namorados, focando na prática de animação e lógica.([Repositório aqui](https://github.com/gustavocastilhos/diadosnamorados))
+-  💘 DIA-DOS-NAMORADOS: Experiência web interativa que esconde uma declaração romântica por trás de um contrato corporativo fictício, utilizando HTML, CSS e JavaScript.([Repositório aqui](https://github.com/gustavocastilhos/diadosnamorados))
 -  📊 ANALISE-DE-PREÇOS: Projeto destinado a prática de coleta, análise e tratamento de dados.([Repositório aqui](https://github.com/gustavocastilhos/analise-precos-python))
 
 
