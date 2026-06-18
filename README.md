@@ -32,7 +32,7 @@ Fique à vontade para entrar em contato comigo!
 
 [![Gmail Badge](https://img.shields.io/badge/gusmarcast@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusmarcast@gmail.com)](mailto:gusmarcast@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=gustavocastilhos&&style=flat-square" align="center" />
-<img src="https://komarev.com/ghpvc/?username=gustavocastilhos&color=#390b45style=flat-square&label=Visitors+Count" />
+<img src="https://komarev.com/ghpvc/?username=gustavocastilhos&&color=#390b45style=flat-square&label=Visitors+Count" />
 
 
 <!--
