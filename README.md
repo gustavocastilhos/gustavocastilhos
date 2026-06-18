@@ -25,7 +25,7 @@
 ## Minhas Contribuições
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastilhos&theme=dark)
-<img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=gustavocastilhos&&style=flat-square" align="center" />
 
 ## Entre em Contato
 
