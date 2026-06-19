@@ -31,8 +31,7 @@
 Fique à vontade para entrar em contato comigo!
 
 [![Gmail Badge](https://img.shields.io/badge/gusmarcast@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:gusmarcast@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=gustavocastilhos&style=flat-square&label=Profile+views&v=1)
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gustavocastilhos.gustavocastilhos)
 <!--
 **gustavocastilhos/gustavocastilhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
