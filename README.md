@@ -12,9 +12,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
- ## Estatísticas do Meu Perfil
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) 
 
 ## Projetos/repos Destacados
 -  ⏳ [SENAI-FASE-1](https://senai1fasejs.vercel.app/): Site destinado as atividades e projetos desenvolvidos durante a 1ª fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/gustavocastilhos/senai1fase))
@@ -25,6 +22,10 @@
 ## Minhas Contribuições
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastilhos&theme=dark)
+
+ ## Estatísticas do Meu Perfil
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) 
 
 ## Entre em Contato
 
