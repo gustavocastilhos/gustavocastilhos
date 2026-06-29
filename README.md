@@ -1,4 +1,4 @@
-# Olá! Meu nome é Gustavo Martins Castilhos
+# Olá! Meu nome é Gustavo Castilhos
 [![GitHub followers](https://img.shields.io/github/followers/gustavocastilhos?label=Follow&style=social)](https://github.com/gustavocastilhos)
 
 
