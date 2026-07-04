@@ -23,7 +23,7 @@
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastilhos&theme=dark)
 
- ## Estatísticas do Meu perfil
+ ## Estatísticas do Meu Perfil
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) 
 
